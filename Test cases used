@@ -1,0 +1,21 @@
+1) Start date: 02-04-2018 
+   end date  : 25-04-2018
+   output    : Total Billig Cycles : 2 
+
+2) Start date: 02-04-2018 
+   end date  : 25-05-2018
+   output    : Total Billig Cycles : 3
+
+
+3) Start date: 02-04-2018 
+   end date  : 12-04-2018
+   output    : Total Billig Cycles : 1
+
+4) Start date: 02-04-2018 
+   end date  : 19-04-2018
+   output    : Total Billig Cycles : 1
+   
+5) Start date: 02-04-2018 
+   end date  : 15-04-2019
+   output    : Total Billig Cycles : 13
+
