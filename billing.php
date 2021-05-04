@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 <?php
  $bil_start=20;
  $bil_end=19;
@@ -22,7 +19,3 @@
  
  echo "Total Billing Cycles: $cycle";
 ?>
-
-
-</body>
-</html>
